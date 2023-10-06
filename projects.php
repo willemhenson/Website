@@ -1,17 +1,15 @@
+<?php require('logic/validate.php'); ?>
 <!DOCTYPE html>
 <html>
-<?php require('head.txt'); ?>
+<?php require('clones/head.php'); ?>
 <body>
-<?php require('header.txt'); ?>
+<?php require('clones/header.php'); ?>
     <main>
-        <h1>My Projects</h1>
+        <h1>my projects</h1>
         <div class="separator"></div>
-        <h3>Take a Look at the Web-Based Projects I've Been Working on!</h3>
-        <table>
-            <tr><td>work procrastinator</td><td><a href="./test/index.php">link</a></td></tr>
-            <tr><td>dbtest</td><td><a href="./dbtest/index.php">link</a></td></tr>
-        </table>
+        <h3>please take a look at my current and previous projects below.</h3>
+        <h4><a href="https://github.com/Whenson31">https://github.com/Whenson31</a></h4>
     </main>
-<?php require('footer.txt'); ?>
+<?php require('clones/footer.php'); ?>
 </body>
 </html>

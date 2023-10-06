@@ -3,8 +3,10 @@
     <style>
         * {font-family:Consolas;font-size:18pt;color:white}
         body {margin:50pt;background-color:#1A1C1D}
+        table {margin:20px}
         table,th,td {border:2px inset}
-        main {padding-left:25vw;padding-right:25vw;text-align:center;min-height:90vh}
+        td {padding:10px}
+        main {padding-left:15vw;padding-right:15vw;text-align:center;min-height:90vh}
         .title {font-size:64pt}
         h1 {font-size:56pt}
         a {color:#3391ff}
